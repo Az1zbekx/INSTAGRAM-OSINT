@@ -1,5 +1,0 @@
-instagrapi
-python-telegram-bot
-aiohttp
-requests
-
